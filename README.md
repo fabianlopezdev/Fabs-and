@@ -1,18 +1,15 @@
 ### Hi there, I am Fabian 👋
 
 ## Software Engineer
-<!--
-**Fabs-and/Fabs-and** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-Here are some ideas to get you started:
+
+
+Full-stack engineer. Experienced with Javascript, Typescript, React, Angular, Node, Express, Koa, Mongo, and SQL. 
+
+I also have experience with VBA, it was the first language I learned and the one that started everything.
 
 - :earth_americas: I am based in Washington, DC
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on Huddler in a team of six developers.
+- 🌱 In my free time I am honing my skills in Angular and Next.js. Afterwards, I would love to learn React Native.
+- 📫 You can contact me at: fabianlopez@pm.me
+
 
