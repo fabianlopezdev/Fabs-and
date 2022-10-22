@@ -4,8 +4,6 @@
 
 # I am Fabian 👋
 
-## Software Engineer
-
 Full-stack engineer. Experienced with Javascript, Typescript, React, Angular, Node, Express, Koa, Mongo, and SQL. 
 
 I also have experience with VBA. It was the first language I learned and the one that started everything.
@@ -18,5 +16,9 @@ I also have experience with VBA. It was the first language I learned and the one
 ## Skills
 
 
+
+<div id="badges">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/ href="https://www.linkedin.com/in/fabian-lopez-gonzalez/">
+</div>
 
 
