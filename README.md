@@ -74,5 +74,4 @@ I also have experience with VBA. It was the first language I learned and the one
 </div>
 
 
-<img src="https://camo.githubusercontent.com/99ce73c536645fec736073695a002aabcc5f11adafd53701254161a6f0b9fc69/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d6b65706c696226636f756e745f707269766174653d74727565267468656d653d6461726b2673686f775f69636f6e733d74727565" data-canonical-src="https://github-readme-stats.vercel.app/api?username=Fabs-and&amp;count_private=true&amp;theme=dark&amp;show_icons=true" style="max-width: 100%;">
 
