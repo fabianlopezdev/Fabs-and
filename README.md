@@ -11,14 +11,14 @@ I also have experience with VBA. It was the first language I learned and the one
 - :earth_americas: I am based in Washington, DC
 - :rocket: I’m currently working on Huddler in a team of six developers.
 - 🌱 In my free time I am honing my skills in Angular and Next.js. Afterwards, I would love to learn React Native.
-- ✉️ You can contact me at: fabianlopez@pm.me or  [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabian-lopez-gonzalez/)
+- ✉️ You can contact me at: fabianlopez@pm.me or [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/fabian-lopez-gonzalez/)
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/fabian-lopez-gonzalez/">
      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/ >
   </a>
 </div>
-## :hammer_and_wrench Skills
+## :hammer_and_wrench: Skills
 
 <div>
 <a href="https://www.javascript.com/" target="_blank" rel="noreferrer">
