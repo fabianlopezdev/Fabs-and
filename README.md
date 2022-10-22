@@ -18,7 +18,7 @@ I also have experience with VBA. It was the first language I learned and the one
      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/ >
   </a>
 </div>
-## :hammer_and_wrench: Skills
+:hammer_and_wrench: # Skills
 
 <div>
 <a href="https://www.javascript.com/" target="_blank" rel="noreferrer">
