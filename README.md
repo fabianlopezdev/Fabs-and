@@ -1,11 +1,10 @@
-### Hi there, I am Fabian 👋
-
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/Qo2dupDib32rkTY4hX/giphy.gif" width="100"/>
+<div id="header">
+  <img src="https://media.giphy.com/media/Qo2dupDib32rkTY4hX/giphy.gif" width="100" height="100"/>
 </div>
 
-## Software Engineer
+### Hi there, I am Fabian 👋
 
+## Software Engineer
 
 Full-stack engineer. Experienced with Javascript, Typescript, React, Angular, Node, Express, Koa, Mongo, and SQL. 
 
