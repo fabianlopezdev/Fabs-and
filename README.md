@@ -13,12 +13,6 @@ I also have experience with VBA. It was the first language I learned and the one
 - 🌱 In my free time I am honing my skills in Angular and Next.js. Afterwards, I would love to learn React Native.
 - ✉️ You can contact me at: fabianlopez@pm.me or [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabian-lopez-gonzalez/)
 
-<div id="badges">
-  <a href="https://www.linkedin.com/in/fabian-lopez-gonzalez/">
-     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/ >
-  </a>
-</div>
-
 # Skills
 
 <div>
@@ -29,7 +23,7 @@ I also have experience with VBA. It was the first language I learned and the one
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" title="Typescript" alt="Typescript" width="40" height="40"/>
 </a>
   <a href="https://jquery.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" title="JQuery" width="40" height="40" alt="PostgreSQL">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" title="JQuery" width="40" height="40" alt="JQuery">
   </a>
   <a href="https://html.spec.whatwg.org/multipage/" target="_blank" rel="noreferrer">
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/> 
@@ -80,5 +74,5 @@ I also have experience with VBA. It was the first language I learned and the one
 </div>
 
 
-
+<img src="https://camo.githubusercontent.com/99ce73c536645fec736073695a002aabcc5f11adafd53701254161a6f0b9fc69/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d6b65706c696226636f756e745f707269766174653d74727565267468656d653d6461726b2673686f775f69636f6e733d74727565" data-canonical-src="https://github-readme-stats.vercel.app/api?username=Fabs-and&amp;count_private=true&amp;theme=dark&amp;show_icons=true" style="max-width: 100%;">
 
