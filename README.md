@@ -18,7 +18,9 @@ I also have experience with VBA. It was the first language I learned and the one
 
 
 <div id="badges">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/ href="https://www.linkedin.com/in/fabian-lopez-gonzalez/">
+  <a href="https://www.linkedin.com/in/fabian-lopez-gonzalez/">
+     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/ >
+  </a>
 </div>
 
 
